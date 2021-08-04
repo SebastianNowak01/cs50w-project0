@@ -1,4 +1,4 @@
-Here is my CS50W project 0.
+This project was inspired by CS50W project0 2020.
 It will help me learn linux command line and git.
 It is a front-end of google search.
 I only post it on my public repo to learn git commits.
