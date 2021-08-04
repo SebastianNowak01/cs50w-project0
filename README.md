@@ -1,2 +1,5 @@
-Here I will post my CS50W projects until they are done.
+Here is my CS50W project 0.
 It will help me learn linux command line and git.
+It is a front-end of google search.
+I only post it on my public repo to learn git commits.
+I do not do it for others to plagiarize.
