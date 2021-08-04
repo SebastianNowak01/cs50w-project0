@@ -40,7 +40,7 @@ form>input {
 
 }
 
-#lucky {
+.blue-white {
     background-color: #3d86fc;
     color: white;
     padding: 0.2rem;
@@ -48,7 +48,7 @@ form>input {
     transition: background-color 0.1s ease-in-out;
 }
 
-#lucky:hover {
+.blue-white:hover {
     background-color: #2d6ccf;
     transition: background-color 0.1s ease-in-out;
 }
