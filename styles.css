@@ -11,12 +11,17 @@
     justify-content: center;
     min-height: 100vh;
     min-width: 100vw;
+    background-image: linear-gradient(to left bottom, #fcf4b8, #ffffff);
 }
 
 nav {
     position: absolute;
     top: 1em;
     right: 1em;
+}
+
+nav>span {
+    cursor: default;
 }
 
 nav>a {
